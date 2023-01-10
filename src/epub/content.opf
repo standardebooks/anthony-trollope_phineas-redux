@@ -56,14 +56,19 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2009129506</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Palliser</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
+		<dc:description id="description">A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;At the end of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, the second of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser series&lt;/a&gt;, Phineas has abandoned his parliamentary career, accepted a sinecure in the civil service in Dublin, and married his Irish sweetheart. As &lt;i&gt;Phineas Redux&lt;/i&gt; begins, he is a widower and tired of Dublin life.&lt;/p&gt;
+			&lt;p&gt;Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call—but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likeable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.&lt;/p&gt;
+			&lt;p&gt;As in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-eustace-diamonds"&gt;&lt;i&gt;The Eustace Diamonds&lt;/i&gt;&lt;/a&gt; (Lizzie Eustace has a small but significant roll to play in &lt;i&gt;Phineas Redux&lt;/i&gt;), Trollope weaves high drama into his plot, but refuses to keep secrets from his readers. Far from having a dampening effect on the tension, the focus of Trollope’s art directs his readers’ attention to the psychological conflicts that arise.&lt;/p&gt;
+			&lt;p&gt;At this point in the series, something of Trollope’s own political disappointments begin to cast a shadow over the maneuvers and machinations of both local and parliamentary politics. There is still a nobility about public service, though, of which Trollope never loses sight, and which will play a larger role as the series moves towards its conclusion.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18640</dc:source>
 		<dc:source>https://archive.org/details/phineasredux00trolrich</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phineas_Redux</meta>
@@ -73,10 +78,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Camille Pissarro</dc:contributor>
+		<meta property="file-as" refines="#artist">Pissarro, Camille</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Camille_Pissarro</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50010995</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Joseph E. Loewenstein</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Loewenstein, Joseph E.</meta>
