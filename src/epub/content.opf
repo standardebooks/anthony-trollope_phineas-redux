@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/phineas-redux</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-01-14T07:13:57Z</dc:date>
+		<meta property="dcterms:modified">2023-01-14T07:13:57Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -62,15 +62,15 @@
 		<dc:description id="description">A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;At the end of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, the second of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser series&lt;/a&gt;, Phineas has abandoned his parliamentary career, accepted a sinecure in the civil service in Dublin, and married his Irish sweetheart. As &lt;i&gt;Phineas Redux&lt;/i&gt; begins, he is a widower and tired of Dublin life.&lt;/p&gt;
-			&lt;p&gt;Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call—but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likeable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.&lt;/p&gt;
-			&lt;p&gt;As in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-eustace-diamonds"&gt;&lt;i&gt;The Eustace Diamonds&lt;/i&gt;&lt;/a&gt; (Lizzie Eustace has a small but significant roll to play in &lt;i&gt;Phineas Redux&lt;/i&gt;), Trollope weaves high drama into his plot, but refuses to keep secrets from his readers. Far from having a dampening effect on the tension, the focus of Trollope’s art directs his readers’ attention to the psychological conflicts that arise.&lt;/p&gt;
+			&lt;p&gt;Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call—but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.&lt;/p&gt;
+			&lt;p&gt;As in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-eustace-diamonds"&gt;&lt;i&gt;The Eustace Diamonds&lt;/i&gt;&lt;/a&gt;, Trollope weaves high drama into his plot, but refuses to keep secrets from his readers. Far from having a dampening effect on the tension, the focus of Trollope’s art directs his readers’ attention to the psychological conflicts that arise.&lt;/p&gt;
 			&lt;p&gt;At this point in the series, something of Trollope’s own political disappointments begin to cast a shadow over the maneuvers and machinations of both local and parliamentary politics. There is still a nobility about public service, though, of which Trollope never loses sight, and which will play a larger role as the series moves towards its conclusion.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18640</dc:source>
 		<dc:source>https://archive.org/details/phineasredux00trolrich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">264569</meta>
+		<meta property="se:reading-ease.flesch">71.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phineas_Redux</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_phineas-redux</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -95,6 +95,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
