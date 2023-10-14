@@ -57,7 +57,7 @@
 		<meta property="term" refines="#subject-9">sh2009129506</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Palliser</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
