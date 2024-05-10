@@ -70,7 +70,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/18640</dc:source>
 		<dc:source>https://archive.org/details/phineasredux00trolrich</dc:source>
 		<meta property="se:word-count">264569</meta>
-		<meta property="se:reading-ease.flesch">71.44</meta>
+		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phineas_Redux</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_phineas-redux</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
