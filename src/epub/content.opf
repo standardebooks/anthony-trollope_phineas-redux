@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anthony-trollope/phineas-redux</dc:identifier>
 		<dc:date>2023-01-14T07:13:57Z</dc:date>
@@ -61,13 +61,13 @@
 		<meta id="collection-1" property="belongs-to-collection">Palliser</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;At the end of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, the second of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser series&lt;/a&gt;, Phineas has abandoned his parliamentary career, accepted a sinecure in the civil service in Dublin, and married his Irish sweetheart. As &lt;i&gt;Phineas Redux&lt;/i&gt; begins, he is a widower and tired of Dublin life.&lt;/p&gt;
 			&lt;p&gt;Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call—but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.&lt;/p&gt;
 			&lt;p&gt;As in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-eustace-diamonds"&gt;&lt;i&gt;The Eustace Diamonds&lt;/i&gt;&lt;/a&gt;, Trollope weaves high drama into his plot, but refuses to keep secrets from his readers. Far from having a dampening effect on the tension, the focus of Trollope’s art directs his readers’ attention to the psychological conflicts that arise.&lt;/p&gt;
 			&lt;p&gt;At this point in the series, something of Trollope’s own political disappointments begin to cast a shadow over the maneuvers and machinations of both local and parliamentary politics. There is still a nobility about public service, though, of which Trollope never loses sight, and which will play a larger role as the series moves towards its conclusion.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18640</dc:source>
 		<dc:source>https://archive.org/details/phineasredux00trolrich</dc:source>
