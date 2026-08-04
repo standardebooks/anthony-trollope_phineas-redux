@@ -61,7 +61,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Palliser</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</dc:abstract>
+		<meta property="schema:abstract">A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.</meta>
 		<dc:description>
 			&lt;p&gt;At the end of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, the second of &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser series&lt;/a&gt;, Phineas has abandoned his parliamentary career, accepted a sinecure in the civil service in Dublin, and married his Irish sweetheart. As &lt;i&gt;Phineas Redux&lt;/i&gt; begins, he is a widower and tired of Dublin life.&lt;/p&gt;
 			&lt;p&gt;Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call—but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.&lt;/p&gt;
