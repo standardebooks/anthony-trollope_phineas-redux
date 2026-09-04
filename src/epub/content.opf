@@ -30,15 +30,15 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Phineas Redux</dc:title>
 		<meta property="file-as" refines="#title">Phineas Redux</meta>
-		<dc:subject id="subject-1">London (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">London (England)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Political fiction</dc:subject>
-		<dc:subject id="subject-4">Legislators -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Palliser, Plantagenet (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Widowers -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Dublin (Ireland) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Legislators--Fiction</dc:subject>
+		<dc:subject id="subject-5">Palliser, Plantagenet (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-6">Widowers--Fiction</dc:subject>
+		<dc:subject id="subject-7">Dublin (Ireland)--Fiction</dc:subject>
 		<dc:subject id="subject-8">Suspense fiction</dc:subject>
-		<dc:subject id="subject-9">Legislators -- Crimes against -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Legislators--Crimes against--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008106611</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
